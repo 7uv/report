@@ -1129,7 +1129,7 @@
       <updated>1455966976438</updated>
       <workItem from="1455966979114" duration="6618000" />
       <workItem from="1455976308413" duration="6428000" />
-      <workItem from="1455984682413" duration="1681000" />
+      <workItem from="1455984682413" duration="1741000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1455981493039</created>
@@ -1137,11 +1137,17 @@
       <option name="project" value="LOCAL" />
       <updated>1455981493039</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ant">
+      <created>1455994218537</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1455994218537</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14727000" />
+    <option name="totallyTimeSpent" value="14787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1368" height="750" extended-state="6" />
@@ -1198,7 +1204,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="ant" />
+    <option name="LAST_COMMIT_MESSAGE" value="ant" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
